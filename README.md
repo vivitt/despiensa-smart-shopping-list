@@ -28,7 +28,7 @@ We worked on this application from February to early April 2024, using React, Ta
 
 ## Quick start: How to use Despiensa
 
-An email account is all that's needed to start using Despiensa. Once registered and signed in via Google, users can begin creating lists, adding items, and sharing their lists with others. Visit the following link to [start using Despiensa](https://despiensa-94998.web.app/) now.
+An email account is all that's needed to start using Despiensa. Once registered and signed in via Google, users can begin creating lists, adding items, and sharing their lists with others. Visit the following link to [start using Despiensa](https://despiensa.site) now.
 
 ## Usage: Current features
 
